@@ -20,7 +20,7 @@
 - 架构讨论
 - 复现代码分析
 
-**PPT和论文存放**：[GitHub链接]([(https://github.com/superlin30/FIC-QingLi-Time-Series-seminar/tree/main/files/2025-12-30-YangWang]))
+**PPT和论文存放**：[GitHub链接](https://github.com/superlin30/FIC-QingLi-Time-Series-seminar/tree/main/files/2025-12-30-YangWang)
 
 **github链接**：[GitHub链接](https://github.com/ForestsKing/ChatTime)
 
@@ -36,7 +36,7 @@
 - 架构讨论
 - 复现代码分析
 
-**PPT和论文存放**：[GitHub链接]([(https://github.com/superlin30/FIC-QingLi-Time-Series-seminar/tree/main/files/2025-12-22-LinZhang]))
+**PPT和论文存放**：[GitHub链接](https://github.com/superlin30/FIC-QingLi-Time-Series-seminar/tree/main/files/2025-12-22-LinZhang)
 
 **github链接**：[GitHub链接](https://github.com/ForestsKing/ChatTime)
 
