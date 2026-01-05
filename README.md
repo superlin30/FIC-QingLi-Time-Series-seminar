@@ -10,6 +10,20 @@
 
 ## 近期研讨会安排
 
+
+### 2026年1月6日 | 沈绍飞
+**时间**：2026年1月6日（周二）下午4点  
+**地点**：格致楼二楼FIC实验室一号会议室  
+**分享人**：沈绍飞  
+**主题**：AAAI2026 - EMAformer: Enhancing Transformer through Embedding Armor for Time Series Forecasting  
+**内容**：
+- 论文精读
+- 架构讨论
+- 复现代码分析
+
+**github链接**：[GitHub链接](https://github.com/PlanckChang/EMAformer)
+
+
 ### 2025年12月30日 | 王杨
 **时间**：2025年12月30日（周二）下午1点  
 **地点**：格致楼二楼FIC实验室一号会议室  
