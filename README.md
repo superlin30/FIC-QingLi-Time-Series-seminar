@@ -21,6 +21,8 @@
 - 架构讨论
 - 复现代码分析
 
+**PPT和论文存放**：[GitHub链接](https://github.com/superlin30/FIC-QingLi-Time-Series-seminar/tree/main/files/2025-1-6-ShaofeiShen)
+
 **github链接**：[GitHub链接](https://github.com/PlanckChang/EMAformer)
 
 
