@@ -11,6 +11,22 @@
 ## 近期研讨会安排
 
 
+
+### 2026年1月14日 | 吴佳阳
+**时间**：2026年1月14日（周三）下午1点  
+**地点**：格致楼二楼FIC实验室一号会议室  
+**分享人**：吴佳阳  
+**主题**：ICLR2024 - Diffusion-TS: Interpretable Diffusion for General Time Series Generation  
+**内容**：
+- 论文精读
+- 架构讨论
+- 复现代码分析
+
+**PPT和论文存放**：[GitHub链接](https://github.com/superlin30/FIC-QingLi-Time-Series-seminar/tree/main/files/2025-1-13-JiayangWu)
+
+**github链接**：[GitHub链接](https://github.com/Y-debug-sys/Diffusion-TS)
+
+
 ### 2026年1月6日 | 沈绍飞
 **时间**：2026年1月6日（周二）下午4点  
 **地点**：格致楼二楼FIC实验室一号会议室  
