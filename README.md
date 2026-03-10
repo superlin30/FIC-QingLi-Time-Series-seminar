@@ -73,6 +73,26 @@
 **github链接**：[GitHub链接](https://github.com/ForestsKing/ChatTime)
 
 
+
+---
+
+
+
+### 2026年3月10日 | 王杨
+**时间**：2026年3月10日（周二）下午2点  
+**地点**：格致楼二楼FIC实验室一号会议室  
+**分享人**：王杨  
+**主题**：NeurIPS 2025 - Time-o1: Time-Series Forecasting Needs Transformed Label Alignment  
+**内容**：
+- 论文精读
+- 架构讨论
+- 复现代码分析
+
+
+**PPT和论文存放**：[GitHub链接](https://github.com/superlin30/FIC-QingLi-Time-Series-seminar/tree/main/files/2025-3-10)
+**相关资料**：[GitHub链接](https://github.com/Master-PLC/Time-o1)
+
+
 ---
 
 ## 参会须知
