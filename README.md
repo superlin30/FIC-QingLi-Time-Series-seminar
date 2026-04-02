@@ -112,6 +112,22 @@
 
 ---
 
+### 2026年3月24日 | 吴佳阳
+**时间**：2026年3月24日（周二）下午4点  
+**地点**：格致楼二楼FIC实验室一号会议室  
+**分享人**：吴佳阳 
+**主题**：ICLR 2026 - GTR Enhancing Multivariate Time Series Forecasting With Global Temporal Retrival
+**内容**：
+- 论文精读
+- 架构讨论
+- 复现代码分析
+
+
+**PPT和论文存放**：[GitHub链接](https://github.com/macovaseas/GTR)
+**相关资料**：[GitHub链接](https://github.com/superlin30/FIC-QingLi-Time-Series-seminar/tree/main/files/2026-3-24-JiayangWu)
+
+---
+
 ## 参会须知
 - 请所有同学按时参加组会
 - 若无法参加，请主动向李老师请假并说明原因
